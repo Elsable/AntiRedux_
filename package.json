@@ -5,7 +5,11 @@
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "styled-components": "^4.0.3",
+    "styled-flex-component": "^2.2.2",
+    "styled-reset": "^1.6.0",
+    "typography": "^0.16.17"
   },
   "scripts": {
     "start": "react-scripts start",
